@@ -13,5 +13,8 @@ public class LambdaExpression {
 		IMathFunction.printResult(20, 10, "addition", add);
 		IMathFunction.printResult(20, 10, "multiplication", mul);
 		IMathFunction.printResult(20, 10, "division", div);
+		
+		Iteration.printNumbers();
 	}
+	
 }
